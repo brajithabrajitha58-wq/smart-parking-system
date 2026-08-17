@@ -1,0 +1,12 @@
+Time=0  | Entry=0 | Exit=0 | Slots=0000 | Available=4 | Full=0 | EntryGate=0 | ExitGate=0
+Time=15 | Entry=1 | Exit=0 | Slots=0001 | Available=4 | Full=0 | EntryGate=1 | ExitGate=0
+Time=25 | Entry=0 | Exit=0 | Slots=0001 | Available=3 | Full=0 | EntryGate=0 | ExitGate=0
+Time=35 | Entry=1 | Exit=0 | Slots=0011 | Available=3 | Full=0 | EntryGate=1 | ExitGate=0
+Time=45 | Entry=0 | Exit=0 | Slots=0011 | Available=2 | Full=0 | EntryGate=0 | ExitGate=0
+Time=55 | Entry=1 | Exit=0 | Slots=0111 | Available=2 | Full=0 | EntryGate=1 | ExitGate=0
+Time=65 | Entry=0 | Exit=0 | Slots=0111 | Available=1 | Full=0 | EntryGate=0 | ExitGate=0
+Time=75 | Entry=1 | Exit=0 | Slots=1111 | Available=1 | Full=0 | EntryGate=1 | ExitGate=0
+Time=85 | Entry=0 | Exit=0 | Slots=1111 | Available=0 | Full=1 | EntryGate=0 | ExitGate=0
+Time=95 | Entry=1 | Exit=0 | Slots=1111 | Available=0 | Full=1 | EntryGate=0 | ExitGate=0
+Time=105| Entry=0 | Exit=1 | Slots=1110 | Available=0 | Full=1 | EntryGate=0 | ExitGate=1
+Time=115| Entry=0 | Exit=0 | Slots=1110 | Available=1 | Full=0 | EntryGate=0 | ExitGate=0
